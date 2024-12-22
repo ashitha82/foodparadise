@@ -11,7 +11,7 @@
     max-width: max(10%,500px);
 
 }
-.place-order-left .p{
+.place-order-left title{
     font-size:30px;
     font-weight: 600;
     margin-bottom: 50px;
@@ -22,8 +22,6 @@
     padding: 10px;
     border: 1px solid #5c5c5c;
     outline: tomato;
-
-
 }
 .place-order-left .multifield{
     display: flex;
